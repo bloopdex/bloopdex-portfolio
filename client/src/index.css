@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+:root {
+    --bg: #11071F;
+    --main: #A362FF;
+    --secondary: #2C1250;
+    --fb-blue: #1877F2;
+    --bg-radial: radial-gradient(rgba(118, 60, 172, 1), transparent);
+}
+
+* {
+    box-sizing: content-box;
+    padding: 0px;
+    margin: 0px;
+}
