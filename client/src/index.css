@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600&family=Preahvihear&display=swap');
 
 :root {
     --bg: #11071F;
+    --nav-bg: #1A0B2E;
     --main: #A362FF;
     --secondary: #2C1250;
     --fb-blue: #1877F2;
@@ -12,4 +13,12 @@
     box-sizing: content-box;
     padding: 0px;
     margin: 0px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: var(--bg);
+    width: 100vw;
+    height: 100%;
 }
